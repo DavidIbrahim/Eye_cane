@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eye Cane</string>
+    <string name="action_call">Calls Settings </string>
+    <string name="action_send_location">Location SMS settings </string>
+    <string name="calls_activity_label">Edit Calls</string>
+
+    <string name="button_connect">Connect</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="title_devices">Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+</resources>
